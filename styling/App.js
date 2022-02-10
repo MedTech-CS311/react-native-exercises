@@ -1,4 +1,5 @@
 import { StyleSheet, Text, View } from "react-native";
+import { Linking } from "react-native";
 
 export default function App() {
   return (
