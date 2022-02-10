@@ -20,7 +20,7 @@ For this exercise, we will use [Tab Navigation](https://reactnavigation.org/docs
 - [ ] Install the needed dependencies by running
 
 ```
-$ npm install @react-navigation/bottom-tabs --save
+$ npm install @react-navigation/native react-native-screens react-native-safe-area-context @react-navigation/bottom-tabs --save
 ```
 
 - [ ] Follow the guide in the documentation to implement the navigation
