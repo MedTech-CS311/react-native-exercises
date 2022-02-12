@@ -1,7 +1,7 @@
 import { SafeAreaView, StyleSheet, Text, View } from "react-native";
 import { Linking } from "react-native";
 
-export default function App() {
+export default function MyPalette() {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.camel}/>
