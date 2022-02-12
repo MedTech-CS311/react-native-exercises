@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView, StyleSheet, Text, View, Image, Button, Linking} from 'react-native';
 
-export default function App() {
+export default function AboutMe() {
   return (
     <SafeAreaView style={styles.container}>
       <View>
@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   text:{
-    fontFamily:"Fantasy",
+    //fontFamily:"Fantasy",
     color:"white"
   }
 });

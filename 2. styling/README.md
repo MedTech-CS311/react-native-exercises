@@ -4,8 +4,8 @@ In this exercise, we will create a color palette that showcases your favourite c
 
 ## Steps:
 
-- [ ] Go to [coolers.co](https://coolors.co/) and generate a random color palette
+- [X] Go to [coolers.co](https://coolors.co/) and generate a random color palette
 
-- [ ] Create the boxes with `View`
+- [X] Create the boxes with `View`
 
-- [ ] Use `StyleSheet` to style your boxes and texts with the margins and paddings needed
+- [X] Use `StyleSheet` to style your boxes and texts with the margins and paddings needed
